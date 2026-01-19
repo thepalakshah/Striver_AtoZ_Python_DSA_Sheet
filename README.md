@@ -1,6 +1,6 @@
 # Striver-A2Z-DSA (Python)
 
-![DSA][(https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/tree/main)]
+[DSA][(https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/tree/main)]
 
 Welcome to my **Striver’s A2Z DSA Sheet – Python Solutions** repository 👋  
 This repository contains my personal implementations of all problems from **Striver’s A2Z DSA Sheet**, solved in **Python**.
