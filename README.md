@@ -50,11 +50,6 @@ Each folder corresponds to a topic from the A2Z sheet, and contains clean, well-
 - 📘 Striver’s A2Z Sheet:  
   https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 
-- 🎥 Take U Forward YouTube Channel:  
-  https://www.youtube.com/@takeUforward  
-
----
-
 ## 🚀 How to Use This Repo
 
 ```bash
