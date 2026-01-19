@@ -91,9 +91,3 @@ If this repository helps you in your DSA journey, please consider giving it a st
 
 **Happy Coding! 🚀**
 
-📋 To Apply:
-bashcd Striver_AtoZ_Python_DSA_Sheet
-nano README.md  # Paste the code above
-git add README.md
-git commit -m "Update README with clean minimal design"
-git push origin main
