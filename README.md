@@ -22,26 +22,26 @@ Each folder corresponds to a topic from the A2Z sheet, and contains clean, well-
 
 ## 📂 Topics Covered
 
-`Basics`  
-`Sorting Techniques`  
-`Arrays`  
-`Binary Search`  
-`Strings`  
-`Linked List`  
-`Recursion`  
-`Bit Manipulation`  
-`Stacks`  
-`Queues`  
-`Sliding Window`  
-`Two Pointers`  
-`Heap / Priority Queue`  
-`Greedy`  
-`Binary Tree`  
-`Binary Search Tree`  
-`Graph`  
-`Disjoint Set (Union Find)`  
-`Dynamic Programming`  
-`Trie`  
+Basics  
+Sorting Techniques  
+Arrays  
+Binary Search  
+Strings  
+Linked List  
+Recursion  
+Bit Manipulation  
+Stacks  
+Queues  
+Sliding Window  
+Two Pointers  
+Heap / Priority Queue  
+Greedy  
+Binary Tree  
+Binary Search Tree  
+Graph  
+Disjoint Set (Union Find)  
+Dynamic Programming  
+Trie  
 
 ---
 
