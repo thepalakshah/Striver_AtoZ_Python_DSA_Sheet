@@ -1,11 +1,13 @@
 # 🚀 Striver A2Z DSA Sheet – Python Solutions
 
-Welcome to my solutions repository for **Striver’s A2Z DSA Sheet**, implemented in **Python**.  
+Welcome to my solutions repository for **Striver's A2Z DSA Sheet**, implemented in **Python**.  
 This repository documents my journey through all core Data Structures & Algorithms topics, following the official Striver roadmap.
+
+---
 
 ## 📖 About
 
-This repository contains structured and well-commented Python solutions for all major topics from **Striver’s A2Z DSA Course**.  
+This repository contains structured and well-commented Python solutions for all major topics from **Striver's A2Z DSA Course**.  
 Each folder corresponds to one step of the roadmap and contains problem-wise implementations.
 
 ---
@@ -36,7 +38,7 @@ Each folder corresponds to one step of the roadmap and contains problem-wise imp
 ---
 
 ## 📂 Repository Structure
-
+```
 Striver_AtoZ_Python_DSA_Sheet/
 ├── Step 01 - Basics
 ├── Step 02 - Sorting Techniques
@@ -56,14 +58,42 @@ Striver_AtoZ_Python_DSA_Sheet/
 ├── Step 16 - Dynamic Programming
 ├── Step 17 - Tries
 └── README.md
-
+```
 
 ---
 
 ## 🔗 Resources
 
-- 📘 Striver’s A2Z DSA Sheet:  
+- 📘 **Striver's A2Z DSA Sheet**:  
   https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
 ---
 
+## 🚀 Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet.git
 
+# Navigate to the folder
+cd Striver_AtoZ_Python_DSA_Sheet
+
+# Run any solution
+python "Step 03 - Arrays/problem_name.py"
+```
+
+---
+
+## ⭐ Show Your Support
+
+If this repository helps you in your DSA journey, please consider giving it a star!
+
+---
+
+**Happy Coding! 🚀**
+
+📋 To Apply:
+bashcd Striver_AtoZ_Python_DSA_Sheet
+nano README.md  # Paste the code above
+git add README.md
+git commit -m "Update README with clean minimal design"
+git push origin main
