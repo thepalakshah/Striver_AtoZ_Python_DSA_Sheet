@@ -166,38 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding! 🚀**
 
-</div>
-
----
-
-## 📊 Progress Tracker
-
-| Step | Topic | Progress |
-|------|-------|----------|
-| 01 | Basics | 🟢 Complete |
-| 02 | Sorting | 🟢 Complete |
-| 03 | Arrays | 🟡 In Progress |
-| 04 | Binary Search | 🔴 Not Started |
-| 05 | Strings | 🔴 Not Started |
-| 06 | Linked List | 🔴 Not Started |
-| 07 | Recursion | 🔴 Not Started |
-| 08 | Bit Manipulation | 🔴 Not Started |
-| 09 | Stacks & Queues | 🔴 Not Started |
-| 10 | Sliding Window & Two Pointers | 🔴 Not Started |
-| 11 | Heaps | 🔴 Not Started |
-| 12 | Greedy | 🔴 Not Started |
-| 13 | Binary Trees | 🔴 Not Started |
-| 14 | Binary Search Trees | 🔴 Not Started |
-| 15 | Graphs | 🔴 Not Started |
-| 16 | Dynamic Programming | 🔴 Not Started |
-| 17 | Tries | 🔴 Not Started |
-
-*Legend: 🟢 Complete | 🟡 In Progress | 🔴 Not Started*
-
----
-
-<div align="center">
-
 **Made with ❤️ and Python**
 
 *Last Updated: January 2026*
