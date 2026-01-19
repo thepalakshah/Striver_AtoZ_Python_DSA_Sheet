@@ -2,14 +2,13 @@
 
 # 🚀 Striver A2Z DSA Sheet - Python Solutions
 
-[DSA][(https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/tree/main)]
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/thepalakshah/Striver_AtoZ_Python_DSA_Sheet?style=for-the-badge&logo=github)](https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 ### *Master Data Structures & Algorithms with Python* 🐍
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/thepalakshah/Striver_AtoZ_Python_DSA_Sheet?style=for-the-badge&logo=github)](https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/stargazers)
-
-**[📖 About](#-about) • [📚 Topics](#-topics-covered) • [🚀 Quick Start](#-quick-start) • [🔗 Resources](#-resources)**
+**[📖 About](#-about) • [📚 Topics](#-topics-covered) • [📂 Structure](#-repository-structure) • [🚀 Quick Start](#-quick-start) • [🔗 Resources](#-resources)**
 
 </div>
 
@@ -17,152 +16,190 @@
 
 ## 📖 About
 
-This repository contains my complete solutions for **Striver’s A2Z DSA Sheet**, implemented in **Python** 🐍.  
-It covers the full journey from fundamentals to advanced algorithms and is aimed at building a strong base for **coding interviews and problem solving**.
+This repository contains my complete solutions for **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**, implemented in **Python** 🐍.
 
-Each solution is:
-- ✅ Clean & readable  
-- ✅ Optimized  
-- ✅ Interview-oriented  
+It represents my journey from fundamentals to advanced algorithms, building a strong foundation for **coding interviews and competitive programming**.
+
+### Why This Repository?
+
+- ✅ **Clean & Readable Code** - Easy to understand implementations
+- ✅ **Optimized Solutions** - Focus on time and space complexity
+- ✅ **Interview-Ready** - Practical approaches used in real interviews
+- ✅ **Comprehensive Coverage** - All major DSA topics included
+- ✅ **Active Development** - Regularly updated with new solutions
 
 ---
 
 ## 📚 Topics Covered
 
-Basics  
-Sorting Techniques  
-Arrays  
-Binary Search  
-Strings  
-Linked List  
-Recursion  
-Bit Manipulation  
-Stacks  
-Queues  
-Sliding Window  
-Two Pointers  
-Heap / Priority Queue  
-Greedy  
-Binary Tree  
-Binary Search Tree  
-Graph  
-Disjoint Set (Union Find)  
-Dynamic Programming  
-Trie  
+<table>
+<tr>
+<td>
+
+- 📌 Basics
+- 🔄 Sorting Techniques
+- 📊 Arrays
+- 🔍 Binary Search
+- 📝 Strings
+- 🔗 Linked List
+- ♻️ Recursion
+
+</td>
+<td>
+
+- 🔢 Bit Manipulation
+- 📚 Stacks & Queues
+- 🪟 Sliding Window
+- ↔️ Two Pointers
+- 🏔️ Heap / Priority Queue
+- 💰 Greedy Algorithms
+- 🌳 Binary Trees
+
+</td>
+<td>
+
+- 🌲 Binary Search Trees
+- 🕸️ Graphs
+- 🔗 Disjoint Set (Union Find)
+- 🎯 Dynamic Programming
+- 📖 Tries
+- 🧮 Advanced Algorithms
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Repository Structure
-
+```
 Striver_AtoZ_Python_DSA_Sheet/
-├── Step 01 - Basics
-├── Step 02 - Sorting Techniques
-├── Step 03 - Arrays
-├── Step 04 - Binary Search
-├── Step 05 - Strings
-├── Step 06 - Linked List
-├── Step 07 - Recursion
-├── Step 08 - Bit Manipulation
-├── Step 09 - Stacks & Queues
-├── Step 10 - Sliding Window & Two Pointers
-├── Step 11 - Heaps
-├── Step 12 - Greedy
-├── Step 13 - Binary Trees
-├── Step 14 - Binary Search Trees
-├── Step 15 - Graphs
-├── Step 16 - Dynamic Programming
-├── Step 17 - Tries
+├── Step_01_Basics/
+├── Step_02_Sorting_Techniques/
+├── Step_03_Arrays/
+├── Step_04_Binary_Search/
+├── Step_05_Strings/
+├── Step_06_Linked_List/
+├── Step_07_Recursion/
+├── Step_08_Bit_Manipulation/
+├── Step_09_Stacks_and_Queues/
+├── Step_10_Sliding_Window_Two_Pointers/
+├── Step_11_Heaps/
+├── Step_12_Greedy/
+├── Step_13_Binary_Trees/
+├── Step_14_Binary_Search_Trees/
+├── Step_15_Graphs/
+├── Step_16_Dynamic_Programming/
+├── Step_17_Tries/
 └── README.md
+```
 
-yaml
-Copy code
+Each folder contains:
+- Problem solutions in Python
+- Comments explaining the approach
+- Time and space complexity analysis
 
 ---
 
 ## 🚀 Quick Start
 
-### Clone the repo
+### Clone the Repository
 ```bash
 git clone https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet.git
 cd Striver_AtoZ_Python_DSA_Sheet
-Run any file
-bash
-Copy code
-python filename.py
-🔗 Resources
-📘 Striver A2Z Sheet:
-https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+```
 
-<div align="center">
-⭐ If this repo helps you, consider starring it!
-Happy Coding 🚀
+### Run Any Solution
+```bash
+python Step_03_Arrays/problem_name.py
+```
 
-</div> ```
-✅ Now Push It
-After saving README.md:
+### Requirements
 
-bash
-Copy code
-git add README.md
-git commit -m "Add professional README"
-git push
-
-
-
-# Striver-A2Z-DSA (Python)
-
-[DSA][(https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/tree/main)]
-
-Welcome to my **Striver’s A2Z DSA Sheet – Python Solutions** repository 👋  
-This repository contains my personal implementations of all problems from **Striver’s A2Z DSA Sheet**, solved in **Python**.
-
-This project represents my consistent practice and learning journey in **Data Structures & Algorithms**, covering topics from basics to advanced.
-
----
-
-## 📌 About This Repository
-
-- 💻 Language: **Python**
-- 📚 Source: Striver’s A2Z DSA Sheet  
-- ⏳ Duration: Ongoing / Multi-week structured practice  
-- 🎯 Goal: Build strong foundations for coding interviews & problem solving  
-
-Each folder corresponds to a topic from the A2Z sheet, and contains clean, well-structured Python solutions.
-
----
-
-## 📂 Topics Covered
-
-Basics  
-Sorting Techniques  
-Arrays  
-Binary Search  
-Strings  
-Linked List  
-Recursion  
-Bit Manipulation  
-Stacks  
-Queues  
-Sliding Window  
-Two Pointers  
-Heap / Priority Queue  
-Greedy  
-Binary Tree  
-Binary Search Tree  
-Graph  
-Disjoint Set (Union Find)  
-Dynamic Programming  
-Trie  
+- Python 3.8 or higher
+- No external dependencies required for most solutions
 
 ---
 
 ## 🔗 Resources
 
-- 📘 Striver’s A2Z Sheet:  
-  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+- 📘 **Striver's A2Z DSA Sheet**: [takeuforward.org](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- 🎥 **Video Explanations**: [Striver's YouTube Channel](https://www.youtube.com/@takeUforward)
+- 💻 **Practice Platform**: [LeetCode](https://leetcode.com/) | [GFG](https://practice.geeksforgeeks.org/)
 
-## 🚀 How to Use This Repo
+---
 
-```bash
-git clone https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet.git
-cd Striver_AtoZ_Python_DSA_Sheet
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/thepalakshah/Striver_AtoZ_Python_DSA_Sheet/issues).
+
+### How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📧 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-thepalakshah-181717?style=for-the-badge&logo=github)](https://github.com/thepalakshah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thepalakshah)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If this repository helps you, consider giving it a star!
+
+**Happy Coding! 🚀**
+
+</div>
+
+---
+
+## 📊 Progress Tracker
+
+| Step | Topic | Progress |
+|------|-------|----------|
+| 01 | Basics | 🟢 Complete |
+| 02 | Sorting | 🟢 Complete |
+| 03 | Arrays | 🟡 In Progress |
+| 04 | Binary Search | 🔴 Not Started |
+| 05 | Strings | 🔴 Not Started |
+| 06 | Linked List | 🔴 Not Started |
+| 07 | Recursion | 🔴 Not Started |
+| 08 | Bit Manipulation | 🔴 Not Started |
+| 09 | Stacks & Queues | 🔴 Not Started |
+| 10 | Sliding Window & Two Pointers | 🔴 Not Started |
+| 11 | Heaps | 🔴 Not Started |
+| 12 | Greedy | 🔴 Not Started |
+| 13 | Binary Trees | 🔴 Not Started |
+| 14 | Binary Search Trees | 🔴 Not Started |
+| 15 | Graphs | 🔴 Not Started |
+| 16 | Dynamic Programming | 🔴 Not Started |
+| 17 | Tries | 🔴 Not Started |
+
+*Legend: 🟢 Complete | 🟡 In Progress | 🔴 Not Started*
+
+---
+
+<div align="center">
+
+**Made with ❤️ and Python**
+
+*Last Updated: January 2026*
+
+</div>
