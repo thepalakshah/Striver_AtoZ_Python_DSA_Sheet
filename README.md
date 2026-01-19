@@ -3,13 +3,6 @@
 Welcome to my solutions repository for **Striver’s A2Z DSA Sheet**, implemented in **Python** 🐍.  
 This repository documents my journey through all core Data Structures & Algorithms topics, following the official Striver roadmap.
 
-It is intended for:
-- Interview preparation  
-- Concept revision  
-- Consistent DSA practice  
-
----
-
 ## 📖 About
 
 This repository contains structured and well-commented Python solutions for all major topics from **Striver’s A2Z DSA Course**.  
@@ -43,4 +36,34 @@ Each folder corresponds to one step of the roadmap and contains problem-wise imp
 ---
 
 ## 📂 Repository Structure
+
+Striver_AtoZ_Python_DSA_Sheet/
+├── Step 01 - Basics
+├── Step 02 - Sorting Techniques
+├── Step 03 - Arrays
+├── Step 04 - Binary Search
+├── Step 05 - Strings
+├── Step 06 - Linked List
+├── Step 07 - Recursion
+├── Step 08 - Bit Manipulation
+├── Step 09 - Stacks & Queues
+├── Step 10 - Sliding Window & Two Pointers
+├── Step 11 - Heaps
+├── Step 12 - Greedy
+├── Step 13 - Binary Trees
+├── Step 14 - Binary Search Trees
+├── Step 15 - Graphs
+├── Step 16 - Dynamic Programming
+├── Step 17 - Tries
+└── README.md
+
+
+---
+
+## 🔗 Resources
+
+- 📘 Striver’s A2Z DSA Sheet:  
+  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+---
+
 
