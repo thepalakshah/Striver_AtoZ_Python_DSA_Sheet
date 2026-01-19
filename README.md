@@ -166,8 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding! 🚀**
 
-**Made with ❤️ and Python**
-
-*Last Updated: January 2026*
-
 </div>
