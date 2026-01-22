@@ -3,7 +3,7 @@
 Welcome to my solutions repository for **Striver's A2Z DSA Sheet**, implemented in **Python**.  
 This repository documents my journey through all core Data Structures & Algorithms topics, following the official Striver roadmap.
 
----
+----
 
 ## 📖 About
 
